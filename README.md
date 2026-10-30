@@ -5,7 +5,7 @@
 ## 包含什么
 
 - 可安装的 `SKILL.md`、Codex 元数据与按需读取的部署/运维/验收参考。
-- 可复制的部署源码：FastAPI Web UI、PDF/图片输入、逐页原图对照、布局框、Markdown/原始结果和 ZIP 下载。
+- 可复制的部署源码：FastAPI Web UI、PDF/图片输入、原图连续滚动翻页与当前页结果联动、布局框、Markdown/原始结果和 ZIP 下载。
 - 视频工具：GPU/显存/RAM/CPU 的每秒采样、曲线和峰值，录屏模式，同输入 Base/Gundam 对照，人工参考文本 CER 与 CSV 导出。
 - 已锁定的 212 个 Python 包、百度定制 SGLang wheel、CUDA 13 编译工具配置、systemd 与认证 HTTPS 安装脚本。
 - 模型固定快照下载/权重校验、原创单页/3 页/12 页样本生成、安全排空升级和验收脚本。
