@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unlimited OCR 2 云端部署"
+  short_description: "Deploy Unlimited OCR 2 with SGLang and a browser UI"
+  default_prompt: "使用 $unlimited-ocr2-cloud-deploy 将 Unlimited OCR 2 部署到我授权的云 GPU 服务器，并验证 Web UI、资源监控与本地备份。"
