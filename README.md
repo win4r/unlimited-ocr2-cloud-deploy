@@ -1,3 +1,5 @@
+# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
+
 # Unlimited OCR 2 Cloud Deploy Skill
 
 把百度 Unlimited OCR 2 部署到云 GPU，并提供可在浏览器中实测的文档工作台。这个 skill 来自一次实际跑通的 Ubuntu 22.04 + RTX A6000 48GB 部署，保存了完整依赖、定制 SGLang、CUDA 编译环境、HTTPS、资源监控及排障流程。
